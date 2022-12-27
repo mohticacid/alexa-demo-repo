@@ -1,1 +1,1 @@
-This is test repo made my mohit
+This is test repo made by mohit
